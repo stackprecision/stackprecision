@@ -1,5 +1,7 @@
 ### Hi, I'm Prathamesh Kulkarni 👋
 
+I'm a data scientist who loves to tell stories. I think the two most effective instruments for changing the world are words and statistics.
+
 - ✍🏻 Currently doing a Master's in Computer Science at the University of Passau, Germany.
 - 👀 I have interests in artificial intelligence, data visualization, data dashboarding and analysis.
 - ♥️ Python and Javascript
