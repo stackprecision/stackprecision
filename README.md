@@ -4,6 +4,7 @@ I'm a data scientist who loves to tell stories. I think the two most effective i
 
 - ✍🏻 Currently doing a Master's in Computer Science at the University of Passau, Germany.
 - 👀 I have interests in artificial intelligence, data visualization, data dashboarding and analysis.
+- 👨🏻‍💻 I am currently learning Full-Stack development. Watch out for this space for some interesting projects.
 - ♥️ Python and Javascript
 
 
