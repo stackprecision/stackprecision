@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Prathamesh Kulkarni 👋
+
+- ✍🏻 Currently doing a Master's in Computer Science at the University of Passau, Germany.
+- 👀 I have interests in artificial intelligence, data visualization, data dashboarding and analysis.
+- ♥️ Python and Javascript
+
 
 <!--
 **data-picasso44/data-picasso44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
