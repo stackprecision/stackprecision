@@ -1,11 +1,21 @@
-### Hi, I'm Prathamesh Kulkarni 👋
+## Hi, I'm Prathamesh Kulkarni 👋
 
-I'm a data scientist who loves to tell stories. I think the two most effective instruments for changing the world are words and statistics.
+I am a passionate frontend developer with expertise in React and SASS. I love crafting user-friendly and visually appealing web applications. My goal is to create engaging digital experiences that leave a lasting impression.
 
-- ✍🏻 Currently doing a Master's in Computer Science at the University of Passau, Germany.
-- 👀 I have interests in artificial intelligence, data visualization, data dashboarding and analysis.
-- 👨🏻‍💻 I am currently learning Full-Stack development. Watch out for this space for some interesting projects.
-- ♥️ Python and Javascript
+### Skills
+
+* React
+* Javascript
+* HTML5
+* CSS3
+* SASS
+* Responsive Web Design
+* Git
+
+### Experience
+
+* Software Engineer at Bridge Solutions Group (now Pivotree), Mar 2021 - Aug 2021
+
 
 
 <!--
