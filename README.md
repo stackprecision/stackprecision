@@ -14,6 +14,7 @@ I am a passionate frontend developer with expertise in React and SASS. I love cr
 
 ### Experience
 
+* Data Scientist at Tribes.AI, Sep 2021 - May 2022
 * Software Engineer at Bridge Solutions Group (now Pivotree), Mar 2021 - Aug 2021
 
 
