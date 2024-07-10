@@ -1,6 +1,6 @@
 ## Hi, I'm Prathamesh Kulkarni 👋
 
-I am a passionate frontend developer with expertise in React and SASS. I love crafting user-friendly and visually appealing web applications. My goal is to create engaging digital experiences that leave a lasting impression.
+I am a passionate full-stack developer with expertise in React and SASS. I love crafting user-friendly and visually appealing web applications. My goal is to create engaging digital experiences that leave a lasting impression.
 
 ### Skills
 
@@ -11,11 +11,14 @@ I am a passionate frontend developer with expertise in React and SASS. I love cr
 * SASS
 * Responsive Web Design
 * Git
+* Next.js
+* GraphQL - Apollo
 
 ### Experience
 
-* Data Scientist at Tribes.AI, Sep 2021 - May 2022
+* Data Engineer at Tribes.AI, Sep 2021 - May 2022
 * Software Engineer at Bridge Solutions Group (now Pivotree), Mar 2021 - Aug 2021
+* Software Engineer Intern at Transil Technologies, Feb 2020 - Sep 2020
 
 
 
