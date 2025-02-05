@@ -16,7 +16,7 @@ I am a passionate full-stack developer with expertise in React and SASS. I love 
 
 ### Experience
 
-* Data Engineer at Tribes.AI, Sep 2021 - May 2022
+* Software Engineer at Tribes.AI, Sep 2021 - Oct 2022
 * Software Engineer at Bridge Solutions Group (now Pivotree), Mar 2021 - Aug 2021
 * Software Engineer Intern at Transil Technologies, Feb 2020 - Sep 2020
 
