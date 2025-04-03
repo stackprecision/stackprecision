@@ -1,38 +1,23 @@
-## Hi, I'm Prathamesh Kulkarni 👋
+# 👋 Hi, I’m Prathamesh Kulkarni
 
-I am a passionate full-stack developer with expertise in React and SASS. I love crafting user-friendly and visually appealing web applications. My goal is to create engaging digital experiences that leave a lasting impression.
+I'm a Master's student in Computer Science with a strong foundation in software development and hands-on experience in data engineering. I recently worked as a Data Engineer at a workplace analytics SaaS startup, where I built scalable ETL pipelines using Python, Airflow, and SQL, and deployed data workflows on Google Cloud Platform.
 
-### Skills
+My interests lie at the intersection of data infrastructure, analytics, and scalable backend systems. I enjoy working with tools like Neo4j, MLflow, and Docker, and I'm always exploring ways to apply clean engineering practices to solve complex data problems.
 
-* React
-* Javascript
-* HTML5
-* CSS3
-* SASS
-* Responsive Web Design
-* Git
-* Next.js
-* GraphQL - Apollo
+## 🛠️ Tech Stack
+* Languages: Python, TypeScript, SQL
 
-### Experience
+* Data Tools: Airflow, Neo4j, MLflow, DVC
 
-* Software Engineer at Tribes.AI, Sep 2021 - Oct 2022
-* Software Engineer at Bridge Solutions Group (now Pivotree), Mar 2021 - Aug 2021
-* Software Engineer Intern at Transil Technologies, Feb 2020 - Sep 2020
+* Cloud: Google Cloud Platform (GCP), AWS (learning)
 
+* Other: Docker, FastAPI, React, Next.js
 
+## 🔍 Currently Exploring
 
-<!--
-**data-picasso44/data-picasso44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Scalable data platforms and analytics pipelines
 
-Here are some ideas to get you started:
+Cloud-native infrastructure with Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Applied machine learning for time-series and behavior insights
+
